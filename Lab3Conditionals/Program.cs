@@ -7,10 +7,9 @@ namespace Lab3Conditionals
     {
         static void Main(string[] args)
         {
-            bool cont = true;
             Console.Write("Hello, what is your name? ");
             string name = Console.ReadLine();
-            while (cont)
+            do
             {
                 byte input = 0;
                 bool valid = false;
@@ -34,9 +33,10 @@ namespace Lab3Conditionals
 
                 Console.WriteLine($"Thank you for your input of {input}, {name}.");
 
+                Console.Write("Your input was ");
                 if (input % 2 == 1) // the number is odd
                 {
-                    Console.WriteLine($"{input} Odd");
+                    Console.WriteLine($"{input} and Odd");
                 }
                 else // the number is even
                 {
@@ -50,8 +50,8 @@ namespace Lab3Conditionals
                 }
 
                 Console.Write("Enter y(es) to continue or anything else to exit: ");
-                cont = Console.ReadLine().ToLower().StartsWith('y');
-            }
+
+            } while (Console.ReadLine().ToLower().StartsWith('y'));
         }
     }
 }
