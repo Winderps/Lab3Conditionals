@@ -8,6 +8,8 @@ namespace Lab3Conditionals
         static void Main(string[] args)
         {
             bool cont = true;
+            Console.Write("Hello, what is your name? ");
+            string name = Console.ReadLine();
             while (cont)
             {
                 byte input = 0;
@@ -29,6 +31,8 @@ namespace Lab3Conditionals
                         Console.WriteLine("Input was not valid, please try again.");
                     }
                 }
+
+                Console.WriteLine($"Thank you for your input of {input}, {name}.");
 
                 if (input % 2 == 1) // the number is odd
                 {
