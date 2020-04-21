@@ -1,0 +1,13 @@
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\bin\Debug\netcoreapp3.1\Lab3Conditionals.exe
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\bin\Debug\netcoreapp3.1\Lab3Conditionals.deps.json
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\bin\Debug\netcoreapp3.1\Lab3Conditionals.runtimeconfig.json
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\bin\Debug\netcoreapp3.1\Lab3Conditionals.runtimeconfig.dev.json
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\bin\Debug\netcoreapp3.1\Lab3Conditionals.dll
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\bin\Debug\netcoreapp3.1\Lab3Conditionals.pdb
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\obj\Debug\netcoreapp3.1\Lab3Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\obj\Debug\netcoreapp3.1\Lab3Conditionals.AssemblyInfoInputs.cache
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\obj\Debug\netcoreapp3.1\Lab3Conditionals.AssemblyInfo.cs
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\obj\Debug\netcoreapp3.1\Lab3Conditionals.dll
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\obj\Debug\netcoreapp3.1\Lab3Conditionals.pdb
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\obj\Debug\netcoreapp3.1\Lab3Conditionals.genruntimeconfig.cache
+C:\Users\Winderps\source\repos\Lab3Conditionals\Lab3Conditionals\obj\Debug\netcoreapp3.1\Lab3Conditionals.csprojAssemblyReference.cache
